@@ -7,8 +7,9 @@
    Read More: https://bit.ly/BlynkSimpleAuth
 */
 #define BLYNK_TEMPLATE_ID "TMPxxxxxx"
-#define BLYNK_TEMPLATE_NAME "MQTT Demo"
-#define BLYNK_AUTH_TOKEN "cuuVI8vxXev2tWvcoYfQmb7XqCDZnWye"
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
+
 
 /* Change the default Blynk server. Applicable for users with a white label plan. */
 //#define BLYNK_MQTT_BROKER       "blynk.cloud"
